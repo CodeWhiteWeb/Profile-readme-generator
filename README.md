@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to profile-readme-generator ??</h1>
+<h1 align="center">Welcome to profile-readme-generator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/CodeWhiteWeb/profile-readme-generator#readme" target="_blank">
@@ -15,11 +15,11 @@
   </a>
 </p>
 
-> ???? Best Profile Github Readme Creator/Generator ???? 
+> 🔥🔥 Best Profile Github Readme Creator/Generator 🔥🔥 
 
-### ?? [Homepage](https://github.com/CodeWhiteWeb/profile-readme-generator#readme)
+### 🏠 [Homepage](https://github.com/CodeWhiteWeb/profile-readme-generator#readme)
 
-## ? Demo
+## ✨ Demo
 `profile-readme-generator` makes it soo much easy to create the best readme for you , just by answering few questions!
 *It creates readme mainly for profiles, but you can even use it for your projects*
 
@@ -39,21 +39,21 @@ npm run start
 
 ## Author
 
-?? **CodeWhiteWeb**
+👤 **CodeWhiteWeb**
 
 * Website: https://CodeWhiteWeb.cf
 * Twitter: [@CodeWhiteWeb1](https://twitter.com/CodeWhiteWeb1)
 * Github: [@CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 
-## ?? Contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/CodeWhiteWeb/profile-readme-generator/issues). You can also take a look at the [contributing guide](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
-Give a ?? if this project helped you!
+Give a ⭐️ if this project helped you!
 
-## ?? License
+## 📝 License
 
-Copyright � 2022 [CodeWhiteWeb](https://github.com/CodeWhiteWeb).<br />
+Copyright © 2022 [CodeWhiteWeb](https://github.com/CodeWhiteWeb).<br />
 This project is [MIT](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/master/LICENSE) licensed.
