@@ -1,15 +1,16 @@
 <h1 align="center">Welcome to profile-readme-generator 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000&style=for-the-badge" />
   <a href="https://github.com/CodeWhiteWeb/profile-readme-generator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=for-the-badge" />
   </a>
   <a href="https://github.com/CodeWhiteWeb/profile-readme-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" />
   </a>
   <a href="https://github.com/CodeWhiteWeb/profile-readme-generator/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/CodeWhiteWeb/profile-readme-generator" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/CodeWhiteWeb/profile-readme-generator?style=for-the-badge" />
   </a>
+  <br/>
   <a href="https://twitter.com/CodeWhiteWeb1" target="_blank">
     <img alt="Twitter: CodeWhiteWeb1" src="https://img.shields.io/twitter/follow/CodeWhiteWeb1.svg?style=social" />
   </a>
