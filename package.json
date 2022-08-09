@@ -1,0 +1,35 @@
+{
+  "name": "profile-readme-generator",
+  "version": "1.0.0",
+  "description": "???? Best Profile Github Readme Creator/Generator ???? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWhiteWeb/profile-readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "md",
+    "cli",
+    "generator",
+    "template"
+  ],
+  "author": "CodeWhiteWeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeWhiteWeb/profile-readme-generator/issues"
+  },
+  "homepage": "https://github.com/CodeWhiteWeb/profile-readme-generator#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@codewhiteweb"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
+  }
+}
