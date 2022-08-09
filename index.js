@@ -25,12 +25,12 @@ function promptUser() {
     {
       type: "input",
       name: "work",
-      message: "I’m currently working on: "
+      message: "Iâ€™m currently working on: "
     },
     {
       type: "input",
       name: "learn",
-      message: "I’m currently learning: "
+      message: "Iâ€™m currently learning: "
     },
     {
       type: "input",
@@ -61,8 +61,8 @@ async function init() {
     // Ask user questions and generate responses
     const answers = await promptUser();
     const generateContent = generateReadme(answers);
-    // Write new README.md to dist directory
-    await writeFileAsync('README.md', generateContent);
+    // Write new README.md directory
+    await writeFileAsync('../README.md', generateContent);
     console.log('??  Successfully wrote to README.md');
   } catch (err) {
     console.log(err);
