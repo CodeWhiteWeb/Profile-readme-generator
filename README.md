@@ -48,7 +48,7 @@ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/CodeWhiteWeb/profile-readme-generator/issues). You can also take a look at the [contributing guide](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/CodeWhiteWeb/profile-readme-generator/issues). You can also take a look at the [contributing guide](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
