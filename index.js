@@ -25,12 +25,12 @@ function promptUser() {
     {
       type: "input",
       name: "work",
-      message: "Iâ€™m currently working on: "
+      message: "I’m currently working on: "
     },
     {
       type: "input",
       name: "learn",
-      message: "Iâ€™m currently learning: "
+      message: "I’m currently learning: "
     },
     {
       type: "input",
