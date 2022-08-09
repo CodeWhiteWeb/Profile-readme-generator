@@ -57,4 +57,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [CodeWhiteWeb](https://github.com/CodeWhiteWeb).<br />
-This project is [MIT](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/CodeWhiteWeb/profile-readme-generator/blob/main/LICENSE) licensed.
