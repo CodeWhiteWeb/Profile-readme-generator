@@ -24,9 +24,6 @@
     "url": "https://github.com/CodeWhiteWeb/profile-readme-generator/issues"
   },
   "homepage": "https://github.com/CodeWhiteWeb/profile-readme-generator#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@codewhiteweb"
-  },
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.1.0",
