@@ -1,4 +1,6 @@
-// Declaring the dependencies and variables
+#!/usr/bin/env node
+
+
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
