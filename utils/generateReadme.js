@@ -19,9 +19,9 @@ function generateReadme(answers) {
   
 # ?? About Me :
 
-?? I’m currently working on : ${answers.work}
+?? Im currently working on : ${answers.work}
   
-?? I’m currently learning : ${answers.learn}
+?? Im currently learning : ${answers.learn}
 
 ?? How to reach me:  
   Mail me at "${answers.email}"
@@ -55,7 +55,7 @@ function generateReadme(answers) {
 
 ### ??Riddles
 
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/SajagIN/github-readme-riddle)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
@@ -67,7 +67,7 @@ function generateReadme(answers) {
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-This README was generated with ?? by [profile-readme-generator](https://github.com/CodeWhiteWeb/profile-readme-generator/)
+This README was generated with ?? by [profile-readme-generator](https://github.com/SajagIN/profile-readme-generator/)
 </div>
     `;
 }

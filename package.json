@@ -1,5 +1,5 @@
 {
-  "name": "@CodeWhiteWeb/profile-readme-generator",
+  "name": "@SajagIN/profile-readme-generator",
   "version": "1.0.8",
   "description": "🔥🔥 Best Profile Github Readme Creator/Generator 🔥🔥 ",
   "bin": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeWhiteWeb/profile-readme-generator.git"
+    "url": "git+https://github.com/SajagIN/profile-readme-generator.git"
   },
   "keywords": [
     "readme",
@@ -18,12 +18,12 @@
     "generator",
     "template"
   ],
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeWhiteWeb/profile-readme-generator/issues"
+    "url": "https://github.com/SajagIN/profile-readme-generator/issues"
   },
-  "homepage": "https://github.com/CodeWhiteWeb/profile-readme-generator#readme",
+  "homepage": "https://github.com/SajagIN/profile-readme-generator#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.1.0",
